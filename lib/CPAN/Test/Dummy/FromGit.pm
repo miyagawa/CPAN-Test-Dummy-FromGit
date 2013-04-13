@@ -13,7 +13,7 @@ __END__
 
 =head1 NAME
 
-CPAN::Test::Dummy::FromGit -
+CPAN::Test::Dummy::FromGit - blah blah blah
 
 =head1 SYNOPSIS
 
